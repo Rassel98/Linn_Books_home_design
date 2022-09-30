@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<img src="https://user-images.githubusercontent.com/101389853/193307928-da62733c-86b8-4f65-b594-a9fe23da05da.gif)" alt="Girl in a jacket" height="600">
+<img src="https://user-images.githubusercontent.com/101389853/193310434-3ae22bf5-1ee6-47b3-b190-a02670666157.gif" alt="Girl in a jacket" height="600">
 
 ![Screenshot_20220923-233918](https://user-images.githubusercontent.com/101389853/193307920-279c48da-d18e-4769-b7b2-7abacd0694b1.jpg)
 
